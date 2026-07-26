@@ -1,4 +1,4 @@
-# \# Git Workflow Drill
+# \# Git and GitHub Practice
 
 # 
 

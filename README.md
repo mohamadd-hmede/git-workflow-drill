@@ -1,6 +1,4 @@
-# \# Git Workflow Drill
-
-# 
+# \# Professional Git Workflow Drill
 
 # \## About
 

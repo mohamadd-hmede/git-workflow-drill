@@ -1,8 +1,7 @@
-# \# Professional Git Workflow Drill
+# Professional Git Workflow Drill
 
-# \## About
+## About
 
-# 
 
 # This repository is used to practise Git branches, commits, pull requests, and merge conflicts.
 
